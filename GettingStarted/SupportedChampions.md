@@ -9,74 +9,74 @@
 ### ADC
 | 英雄 | 反馈页 |
 |--|--|
-| Ashe | [📜][Ashe] | 寒冰
-| Caitlyn | [📜][Caitlyn] | 女警
-| Corki | [📜][Corki] | 飞机
-| Draven | [📜][Draven] | 德莱文
-| Ezreal | [📜][Ezreal] | EZ
-| Graves | [📜][Graves] | 男枪
-| Jhin | [📜][Jhin] | 烬
-| Jinx | [📜][Jinx] | 金克斯
-| Kalista | [📜][Kalista] | 滑板鞋
-| Kog`Maw | [📜][KogMaw] | 大嘴
-| Lucian | [📜][Lucian] | 黑人
-| Miss Fortune | [📜][Miss Fortune] | 赏金
-| Sivir | [📜][Sivir] | 轮子妈
-| Tristana | [📜][Tristana] | 炮娘
-| Twitch | [📜][Twitch] | 老鼠
-| Varus | [📜][Varus] | 韦鲁斯
-| Vayne | [📜][Vayne] | 薇恩
-| Xayah | [📜][Xayah] | 霞
+| Ashe/寒冰 | [📜][Ashe] | 
+| Caitlyn/女警 | [📜][Caitlyn] | 
+| Corki /飞机| [📜][Corki] | 
+| Draven /德莱文| [📜][Draven] | 
+| Ezreal /EZ| [📜][Ezreal] | 
+| Graves /男枪| [📜][Graves] | 
+| Jhin /烬| [📜][Jhin] | 
+| Jinx /金克斯| [📜][Jinx] | 
+| Kalista /滑板鞋| [📜][Kalista] | 
+| Kog`Maw /大嘴| [📜][KogMaw] | 
+| Lucian /奥巴马| [📜][Lucian] | 
+| Miss Fortune /赏金| [📜][Miss Fortune] | 
+| Sivir /轮子妈| [📜][Sivir] | 
+| Tristana /炮娘| [📜][Tristana] | 
+| Twitch /老鼠| [📜][Twitch] | 
+| Varus /韦鲁斯| [📜][Varus] | 
+| Vayne /薇恩| [📜][Vayne] | 
+| Xayah /霞| [📜][Xayah] | 
 
 ### 中单
 | 英雄 | 反馈页 |
 |--|--|
-| Ahri | [📜][Ahri] | 阿狸
-| Brand | [📜][Brand] | 火男
-| Cassiopeia | [📜][Cassiopeia] | 蛇女
-| Jayce | [📜][Jayce] | 杰斯
-| Karthus | [📜][Karthus] | 死哥
-| Kayle | [📜][Kayle] | 天使
-| Kog'Maw | [📜][KogMaw] | 大嘴
-| Orianna | [📜][Orianna] | 发条
-| Ryze | [📜][Ryze] | 瑞兹
-| Syndra | [📜][Syndra] | 黑暗元首
-| Twisted Fate | [📜][Twisted Fate] | 卡牌
-| Vel'Koz | [📜][VelKoz] | 大眼
-| Viktor | [📜][Viktor] | 三只手
-| Xerath | [📜][Xerath] | 三炮
-| Yasuo | [📜][Yasuo] | 亚索
-| Zed | [📜][Zed] | 劫
-| Zoe | [📜][Zoe] | 佐伊
+| Ahri /阿狸| [📜][Ahri] | 
+| Brand /火男| [📜][Brand] | 
+| Cassiopeia /蛇女| [📜][Cassiopeia] | 
+| Jayce /杰斯| [📜][Jayce] | 
+| Karthus /死哥| [📜][Karthus] | 
+| Kayle /天使| [📜][Kayle] | 
+| Kog'Maw /大嘴| [📜][KogMaw] | 
+| Orianna /发条| [📜][Orianna] | 
+| Ryze /瑞兹| [📜][Ryze] | 
+| Syndra /黑暗元首| [📜][Syndra] | 
+| Twisted Fate /卡牌| [📜][Twisted Fate] | 
+| Vel'Koz /大眼| [📜][VelKoz] | 
+| Viktor /三只手| [📜][Viktor] | 
+| Xerath /三炮| [📜][Xerath] | 
+| Yasuo /亚索| [📜][Yasuo] | 
+| Zed /劫| [📜][Zed] | 
+| Zoe /佐伊| [📜][Zoe] | 
 
 ### 上单
 | 英雄 | 反馈页 |
 |--|--|
-| Jayce | [📜][Jayce] | 杰斯
-| Kayle | [📜][Kayle] | 天使
-| Nasus | [📜][Nasus] | 狗头
-| Teemo | [📜][Teemo] | 提莫
-| Urgot | [📜][Urgot] | 螃蟹
-| Xin Zhao | [📜][Xin Zhao] |赵信
-| Yasuo | [📜][Yasuo] | 亚索
+| Jayce /杰斯| [📜][Jayce] | 
+| Kayle /天使| [📜][Kayle] | 
+| Nasus /狗头| [📜][Nasus] | 
+| Teemo /提莫| [📜][Teemo] | 
+| Urgot /螃蟹| [📜][Urgot] | 
+| Xin Zhao /赵信| [📜][Xin Zhao] |
+| Yasuo /亚索| [📜][Yasuo] | 
 
 ### 打野
 | 英雄 | 反馈页 |
 |--|--|
-| Kayle | [📜][Kayle] | 天使
-| Kindred | [📜][Kindred] | 千钰
-| Xin Zhao | [📜][Xin Zhao] | 赵信
+| Kayle /天使| [📜][Kayle] | 
+| Kindred /千钰| [📜][Kindred] | 
+| Xin Zhao /| [📜][Xin Zhao] | 
 
 ### 辅助
 | 英雄 | 反馈页 |
 |--|--|
-| Blitzcrank | [📜][Blitzcrank] | 机器人
-| Brand | [📜][Brand] | 火男
-| Leona | [📜][Leona] | 日女
-| Lulu | [📜][Lulu] | 璐璐
-| Morgana | [📜][Morgana] | 摩甘那
-| Thresh | [📜][Thresh] | 锤石
-| Vel'Koz | [📜][VelKoz] | 大眼
+| Blitzcrank/机器人 | [📜][Blitzcrank] | 
+| Brand /火男| [📜][Brand] | 
+| Leona /日女| [📜][Leona] | 
+| Lulu /璐璐| [📜][Lulu] | 
+| Morgana /摩甘那| [📜][Morgana] | 
+| Thresh /锤石| [📜][Thresh] | 
+| Vel'Koz 大眼| [📜][VelKoz] | 
 
 [Ahri]: https://goelites.net/index.php?/topic/391-ahri/
 [Ashe]: https://goelites.net/index.php?/topic/4-ashe/
