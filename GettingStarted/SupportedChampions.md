@@ -65,7 +65,7 @@
 |--|--|
 | Kayle /天使| [📜][Kayle] | 
 | Kindred /千钰| [📜][Kindred] | 
-| Xin Zhao /| [📜][Xin Zhao] | 
+| Xin Zhao /赵信| [📜][Xin Zhao] | 
 
 ### 辅助
 | 英雄 | 反馈页 |
