@@ -66,6 +66,7 @@
 | Kayle /天使| [📜][Kayle] | 
 | Kindred /千钰| [📜][Kindred] | 
 | Xin Zhao /赵信| [📜][Xin Zhao] | 
+| Master Yi /易大师| [📜][Master Yi] | 
 
 ### 辅助
 | 英雄 | 反馈页 |
@@ -122,3 +123,4 @@
 [Ryze]: https://goelites.net/index.php?/topic/931-ryze/
 [Graves]: https://goelites.net/index.php?/topic/948-graves/
 [Cassiopeia]: https://goelites.net/index.php?/topic/965-cassiopeia/
+[Master Yi]: https://goelites.net/index.php?/topic/1026-master-yi/
