@@ -1,4 +1,4 @@
-**欢迎来到 GoElites.Wiki**! [[论坛](https://goelites.net)] [[Discord](https://discord.gg/m7RctYk)] [[QQ](656440954)] 
+**欢迎来到 GoElites.Wiki**! [[论坛](https://goelites.net)] [[Discord](https://discord.gg/ccEAMU )] [[QQ](656440954)] 
 
 我们希望这些能给社区带来最大的帮助。如果你有些问题在这上面没有被回答，请你联系通过论坛或者Discord联系我们 (Uchiha在GE官方Q群联系）!
 
